@@ -8,4 +8,4 @@
 
 ## - Lệnh git pull kéo code của người khác về
 
-## - git conflict
+## - git conflict: xung đột xảy ra khi hai git push đồng thời khác nhau
